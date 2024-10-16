@@ -17,7 +17,7 @@ You also get this nice front page for free :)
 
 ### Some examples
 
-* [Paper](https://bsjhx.github.io/pubtex/paper.pdf)
+* [Paper](https://bsjhx.github.io/cv-tex/paper.pdf)
 
 ### Usage
 
