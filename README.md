@@ -1,31 +1,6 @@
----
-layout: pubtex
-title: PubTeX
----
+# Bsjhx CV repostiroy
 
-# PubTeX
-
-This is a template for publicly hosting LaTeX files with GitHub actions.
-
-It roughly works as follows:
-
-1. You write your latex files as you would normally
-2. Whenever you push your changes to `main`, your files are compiled and pushed to the `gh-pages` branch.
-3. You can now download them directly or publish the branch with GitHub Pages
-
-You also get this nice front page for free :)
-
-### Some examples
-
-* [Paper](https://bsjhx.github.io/cv-tex/paper.pdf)
-
-### Usage
-
-1. [Use this template](https://github.com/jonhue/pubtex/generate) (you only need to include the `main` branch)
-2. List all `.tex` files you want to compile in `.github/workflows/publish.yml` under the `files` option
-3. If you want to generate handouts for some Beamer slides, list those files under the `handouts` option
-4. [Create SSH deploy key](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key)
-5. (optional) Enable GitHub Pages for the `gh-pages` branch
+* [Full CV (full career history)](https://bsjhx.github.io/cv-tex/full.pdf)
 
 ### Options
 
