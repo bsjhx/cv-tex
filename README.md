@@ -1,6 +1,7 @@
 # Bsjhx CV repostiroy
 
 * [Full CV (full career history)](https://bsjhx.github.io/cv-tex/full.pdf)
+* [Java CV](https://bsjhx.github.io/cv-tex/java.pdf)
 
 ### Options
 
