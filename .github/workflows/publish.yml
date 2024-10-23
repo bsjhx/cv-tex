@@ -16,3 +16,4 @@ jobs:
           files: |
             cvs/full.tex
             cvs/java.tex
+            cvs/rust.tex
